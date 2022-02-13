@@ -12,3 +12,4 @@ tested on Lubuntu 18 kernel 4.15.0-118-generic
 # TODO
 - rewrite to python
 - add external HW for real LEDs
+- rewrite for kernel 5.x
